@@ -1,0 +1,31 @@
+C:\Users\Bakht Muhammad\source\repos\BiscuitPhoneDirecotry\bin\Debug\BiscuitPhoneDirecotry.exe.config
+C:\Users\Bakht Muhammad\source\repos\BiscuitPhoneDirecotry\bin\Debug\BiscuitPhoneDirecotry.exe
+C:\Users\Bakht Muhammad\source\repos\BiscuitPhoneDirecotry\bin\Debug\BiscuitPhoneDirecotry.pdb
+C:\Users\Bakht Muhammad\source\repos\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.csproj.AssemblyReference.cache
+C:\Users\Bakht Muhammad\source\repos\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.Properties.Resources.resources
+C:\Users\Bakht Muhammad\source\repos\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.csproj.GenerateResource.cache
+C:\Users\Bakht Muhammad\source\repos\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.csproj.CoreCompileInputs.cache
+C:\Users\Bakht Muhammad\source\repos\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.exe
+C:\Users\Bakht Muhammad\source\repos\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.pdb
+C:\Users\Bakht Muhammad\source\repos\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.Home.resources
+C:\Users\Bakht Muhammad\source\repos\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.Login.resources
+C:\Users\Bakht Muhammad\source\repos\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.Registration.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\bin\Debug\BiscuitPhoneDirecotry.exe.config
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\bin\Debug\BiscuitPhoneDirecotry.exe
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\bin\Debug\BiscuitPhoneDirecotry.pdb
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.csproj.AssemblyReference.cache
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.csproj.SuggestedBindingRedirects.cache
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.Home.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.Login.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.Properties.Resources.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.Registration.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.csproj.GenerateResource.cache
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.csproj.CoreCompileInputs.cache
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.exe
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.pdb
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\bin\Debug\Guna.UI2.dll
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.csproj.CopyComplete
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.Customers.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.Orders.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\BiscuitPhoneDirecotry.Products.resources

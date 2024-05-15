@@ -1,0 +1,57 @@
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\bin\Debug\SquishyToys.exe.config
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\bin\Debug\SquishyToys.exe
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\bin\Debug\SquishyToys.pdb
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\bin\Debug\Guna.UI2.dll
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\SquishyToys.csproj.AssemblyReference.cache
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\SquishyToys.csproj.SuggestedBindingRedirects.cache
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\SquishyToys.Customers.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\SquishyToys.Home.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\SquishyToys.Login.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\SquishyToys.Orders.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\SquishyToys.Products.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\SquishyToys.Properties.Resources.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\SquishyToys.Registration.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\SquishyToys.csproj.GenerateResource.cache
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\SquishyToys.csproj.CoreCompileInputs.cache
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\SquishyToys.csproj.CopyComplete
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\SquishyToys.exe
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\BiscuitPhoneDirecotry\obj\Debug\SquishyToys.pdb
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\bin\Debug\SquishyToys.exe.config
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\bin\Debug\SquishyToys.exe
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\bin\Debug\SquishyToys.pdb
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\bin\Debug\Guna.UI2.dll
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\obj\Debug\SquishyToys.csproj.AssemblyReference.cache
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\obj\Debug\SquishyToys.csproj.SuggestedBindingRedirects.cache
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\obj\Debug\SquishyToys.Customers.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\obj\Debug\SquishyToys.Home.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\obj\Debug\SquishyToys.Login.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\obj\Debug\SquishyToys.Orders.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\obj\Debug\SquishyToys.Products.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\obj\Debug\SquishyToys.Properties.Resources.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\obj\Debug\SquishyToys.Registration.resources
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\obj\Debug\SquishyToys.csproj.GenerateResource.cache
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\obj\Debug\SquishyToys.csproj.CoreCompileInputs.cache
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\obj\Debug\SquishyToys.csproj.CopyComplete
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\obj\Debug\SquishyToys.exe
+C:\Users\melly\source\repos\BiscuitPhoneDirecotry V2 [Session 2]\SquishyToys\obj\Debug\SquishyToys.pdb
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\obj\Debug\SquishyToys.csproj.AssemblyReference.cache
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\obj\Debug\SquishyToys.csproj.SuggestedBindingRedirects.cache
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\obj\Debug\SquishyToys.Customers.resources
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\obj\Debug\SquishyToys.Home.resources
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\obj\Debug\SquishyToys.Login.resources
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\obj\Debug\SquishyToys.Orders.resources
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\obj\Debug\SquishyToys.Products.resources
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\obj\Debug\SquishyToys.Properties.Resources.resources
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\obj\Debug\SquishyToys.Registration.resources
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\obj\Debug\SquishyToys.csproj.GenerateResource.cache
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\obj\Debug\SquishyToys.csproj.CoreCompileInputs.cache
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\bin\Debug\SquishyToys.exe.config
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\bin\Debug\SquishyToys.exe
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\bin\Debug\SquishyToys.pdb
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\bin\Debug\Guna.UI2.dll
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\obj\Debug\SquishyToys.csproj.CopyComplete
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\obj\Debug\SquishyToys.exe
+C:\Users\melly\source\repos\SquishyToys\SquishyToys\obj\Debug\SquishyToys.pdb

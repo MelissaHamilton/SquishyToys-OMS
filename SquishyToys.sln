@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquishyToys", "SquishyToys.csproj", "{FC041F41-8235-4FDB-9744-73275D132C9B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Squishy Toys", "..\Squishy Toys\Squishy Toys.vdproj", "{E528E741-4C5F-4E07-B3D5-8F98DC16F101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC041F41-8235-4FDB-9744-73275D132C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC041F41-8235-4FDB-9744-73275D132C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC041F41-8235-4FDB-9744-73275D132C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC041F41-8235-4FDB-9744-73275D132C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E528E741-4C5F-4E07-B3D5-8F98DC16F101}.Debug|Any CPU.ActiveCfg = Debug
+		{E528E741-4C5F-4E07-B3D5-8F98DC16F101}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A87EA2B-C409-42A8-8A2C-578BF0FFE56A}
+	EndGlobalSection
+EndGlobal
