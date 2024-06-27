@@ -250,7 +250,7 @@
             this.OrderDateTextbox.Name = "OrderDateTextbox";
             this.OrderDateTextbox.Size = new System.Drawing.Size(276, 36);
             this.OrderDateTextbox.TabIndex = 30;
-            this.OrderDateTextbox.Value = new System.DateTime(2023, 1, 4, 21, 32, 34, 605);
+            this.OrderDateTextbox.Value = new System.DateTime(2024, 6, 25, 0, 0, 0, 0);
             // 
             // CustomerCb
             // 
